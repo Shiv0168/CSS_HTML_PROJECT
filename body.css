@@ -1,0 +1,51 @@
+
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .main-header{
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        width: 100vw;
+        height: 10vh;
+        color: white;
+        background-color: rgb(77, 77, 77);
+        font-size: larger;
+    }
+
+    .main{
+        width: 100vw;
+        height: 75vh;
+        color: black;
+        background-color: rgb(251, 251, 251);
+    }
+
+    .navBar{
+        display: inline-block;
+        width: 100vw;
+        height: 10vh;
+        color: rgb(102, 100, 100);
+        background-color: rgb(251, 251, 251);
+    }
+
+   .lab-test{
+
+    display: flex;
+    
+
+    
+}
+        
+
+    .footer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 10vh;
+        color: white;
+        background-color: black;
+    }
+
